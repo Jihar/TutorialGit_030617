@@ -20,17 +20,19 @@ Gambar diatas digunakan untuk menyetujui permintaan perubahan dari konstributor.
 ![4.png](/images/4.png)
 
 ## Kontributor
-1. Melakukan Fork
-![6.png](/images/6.png)
-Gambar diatas merupakan hasil fork dari upstream. Langkah - langkahnya sebagai berikut.
-* Buka URL Upstream, kemudian klik fork. Tunggu hingga proses selesai.
-2. Clone Repo
-* Pastikan posisi hasil fork terletak di reponya kontributor.
-* Kemudian pilih button *Clone or Download*, seperti pada gambar dibawah ini.
-![7.png](/images/7.png)
-kemudian Copy **URL**nya.
-* Lalu buka terminal di komputer anda. Ketik perintah *git clone *url* *. URL adalah hasil copy dari langkah ke 2. contohnya seperti pada gambar di bawah ini:
-![8.png](/images/8.png)
-* Tambahkan URL Upstream, Upstream adalah pemilik *project*. Langkah-langkahnya seperti pada gambar berikut:
-![9.png](/images/9.png) 
- 
+1. Melakukan fork
+![fork](/images/6.png)
+Gambar di atas merupakah hasil fork dari kontributor, berikut adalah langkah-langkahnya:
+* klik button fork pada pojok kanan atas. Tunggu hingga proses selesai
+2. Clone
+![clone](/images/7.png)
+Gambar diatas pastikan posisinya di repo milik anda bukan milik upstream, lalu kemudian klik button *clone or download* copikan URLnya. Lalu buka terminal di komputer anda ketik perintah berikut untuk melakukan clone *git clone url*. Dan hasilnya seperti pada gambar dibawah ini.
+![Hasil clone](/images/8.png)
+langkah selanjutnya adalah menambah upstream, langkah-langkahnya seperti pada gambar dibawah ini.
+![Menambah upstream](/images/9.png)
+3. Sync repo
+untuk singkronkan kedua repo antara kontributor dan upstream langkah-langkhnya seperti pada gambar di bawah ini.
+![10.png](/images/10.png)
+4. Membuat pull request
+Untuk membuat pull request langkah-langkahnya seperti pada gambar dibawah ini.
+![11.png](/images/11.png)

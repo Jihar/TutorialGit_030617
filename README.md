@@ -36,3 +36,7 @@ untuk singkronkan kedua repo antara kontributor dan upstream langkah-langkhnya s
 4. Membuat pull request
 Untuk membuat pull request langkah-langkahnya seperti pada gambar dibawah ini.
 ![11.png](/images/11.png)
+
+## Conflict Pull Request
+![Konflik](/images/13.png)
+Gambar diatas merupakan hasil dari pull request, tetapi terjadi konflik. Konflik terjadi karena 2 orang kontributor mengubah baris kode yang sama. Untuk penyelesaiannya dengan cara berdiskusi untuk memutuskan akan menggunakan source code yang mana ? Keputusannya tergantung dari kebutuhan aplikasi yang sedang di kembangkan. 

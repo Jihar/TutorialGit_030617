@@ -40,3 +40,6 @@ Untuk membuat pull request langkah-langkahnya seperti pada gambar dibawah ini.
 ## Conflict Pull Request
 ![Konflik](/images/13.png)
 Gambar diatas merupakan hasil dari pull request, tetapi terjadi konflik. Konflik terjadi karena 2 orang kontributor mengubah baris kode yang sama. Untuk penyelesaiannya dengan cara berdiskusi untuk memutuskan akan menggunakan source code yang mana ? Keputusannya tergantung dari kebutuhan aplikasi yang sedang di kembangkan. 
+
+Penyelesaiannya bisa dilakukan dengan mengklik button *resolve*, sehingga muncul seperti pada gambar dibawah ini.
+![Resolve](/images/14.png)
